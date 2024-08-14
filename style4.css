@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(187, 193, 199);
+}
+
+
+.n {
+    text-decoration: none;
+    color:black;
+    }
+    
+    .n a{  
+            padding: 5px;
+            color: black;
+            display: block;
+    }
+    
+    .n a {
+        text-decoration: none;
+    }
+    
+    .n a:hover {
+        display: block;
+        padding: 5px;
+        color: rgb(162, 167, 167);
+    }

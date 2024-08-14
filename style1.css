@@ -1,0 +1,41 @@
+.j {
+    text-align: center;
+    
+}
+
+body {
+    background-color: rgb(194, 205, 205);
+}
+
+.k {
+    text-align: center;
+}
+
+.t {
+    text-align: center;
+}
+
+.w {
+    text-align: center;
+}
+
+.n {
+text-decoration: none;
+color:black;
+}
+
+.n a{  
+        padding: 5px;
+        color: black;
+        display: block;
+}
+
+.n a {
+    text-decoration: none;
+}
+
+.n a:hover {
+    display: block;
+    padding: 5px;
+    color: rgb(162, 167, 167);
+}
